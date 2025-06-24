@@ -1,0 +1,12 @@
+Step 1: Confirm that Node.js is already installed on my system.
+
+      To check, I ran the command:
+       node -v
+
+step 2: cd ~/alx-intermediate-frontend repository,
+create a new directory called 0x03-sass_scss
+Step 3: Install SASS version 3.7.4 using npm (Node Package Manager).
+
+       I ran the following command:
+        npm install sass@3.7.4
+     SASS is now installed and ready to be used to compile SCSS files.
